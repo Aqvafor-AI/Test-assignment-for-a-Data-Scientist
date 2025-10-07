@@ -4,7 +4,7 @@
 
 ---
 
-The Jupyter notebook `Тестовое_задание_на_позицию_Data_Scientist.ipynb` implements a solution for a **Data Scientist test assignment** focused on forecasting sales and analyzing the impact of advertising campaigns.
+The Jupyter notebook `s7-data-scientist-test.ipynb` implements a solution for a **Data Scientist test assignment** focused on forecasting sales and analyzing the impact of advertising campaigns.
 
 ## 🎯 Objective
 1. **Forecast sales** for the period **2017–2018**, using the known advertising schedule.  
@@ -25,7 +25,7 @@ The archive includes:
 - `pandas`, `numpy` — data processing  
 - `matplotlib`, `seaborn` — visualization  
 - `scikit-learn` — regression models and metrics  
-- `statsmodels`, `xgboost` (optional) — forecasting methods  
+- `statsmodels`, `xgboost`  — forecasting methods  
 - `datetime` — time feature generation  
 
 ## 🧩 Workflow
